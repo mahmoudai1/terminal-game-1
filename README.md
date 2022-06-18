@@ -3,9 +3,9 @@
 
 5️⃣ Levels ⎮ Game Trailer 🎬 | Game Statistics 🧮 | Timer ⏱ | Health Bar 📶 | Score 🎯 | Guide 🔦 | Lives 3️⃣
 
-Hero 🦸‍♂️ | Animations 🏄‍♀️ | Enemies 😈 | Bullets ☵ | Rifles 🔫 | Elevator 🔝 | Blocks 🗿 | Planes 🛩 | Skateboard 🛹 | Cars 🚔
+Hero 🦸‍♂️ | Animations 🏄‍♀️ | Enemies 😈 | Bullets ☵ | Rifles 🔫 | Elevator 🔝 | Blocks 🗿 | Planes 🛩
 
-Trap ⦚ | Rope 🪢 | Reloading 🔫 | Boss 👿
+Skateboard 🛹 | Cars 🚔 | Trap ⦚ | Rope 🪢 | Reloading 🔫 | Boss 👿
 
 ❖ Game Preview:
 
